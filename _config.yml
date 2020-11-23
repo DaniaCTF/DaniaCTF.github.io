@@ -1,3 +1,5 @@
+---
 title: DaniaCTF Blog
-
 theme: jekyll-theme-minimal
+markdown: kramdown
+---
