@@ -1,1 +1,1 @@
-## The public DaniaCTF blog about teh things we do
+## The public DaniaCTF blog about the things we do
